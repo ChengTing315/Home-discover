@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Introduction
+
+This project is written by React with Firebase, Home Discover allow user search for their favourite home by entering information in the search bar,
+With signing-in, user can save their ideal house. 
+Powered by Firebase, Zillion and Google Map API
+
 ## Available Scripts
 
 In the project directory, you can run:
